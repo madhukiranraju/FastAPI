@@ -1,0 +1,9 @@
+fastapi[all]
+uvicorn
+psycopg2
+sqlalchemy
+passlib[bcrypt]
+bcrypt==3.2.2
+python-jose[cryptography]
+pydantic-settings
+Alembic
